@@ -1,0 +1,7 @@
+This is a Python implementation of Ghost, a word game. 
+Read the rules here: http://en.wikipedia.org/wiki/Ghost_(game)
+
+Some code here is reused from MIT OCW under a Creative Commons license.
+The source is here: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps5_ghost.py
+
+And the license is here: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
